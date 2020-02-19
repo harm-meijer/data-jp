@@ -9,7 +9,8 @@
         "label": {
           "en": "Date of Creation",
           "it": "Date of Creation",
-          "de": "Erstelldatum"
+          "de": "Erstelldatum",
+          "jp": "作成日"
         },
         "isRequired": false,
         "type": {
@@ -25,7 +26,8 @@
         "label": {
           "de": "Herstellernummer",
           "it": "Manufacturer AID",
-          "en": "Manufacturer AID"
+          "en": "Manufacturer AID",
+          "jp": "メーカーエイド"
         },
         "isRequired": false,
         "type": {
@@ -41,7 +43,8 @@
         "label": {
           "en": "AID Maximilian",
           "de": "Artikelnummer Maximilian",
-          "it": "AID Maximilian"
+          "it": "AID Maximilian",
+          "jp": "AIDマクシミリアン"
         },
         "isRequired": false,
         "type": {
@@ -57,7 +60,8 @@
         "label": {
           "it": "Matrix ID",
           "de": "Matrix ID",
-          "en": "Matrix ID"
+          "en": "Matrix ID",
+          "jp": "マトリックスID"
         },
         "isRequired": false,
         "type": {
@@ -73,7 +77,8 @@
         "label": {
           "de": "BasisID",
           "en": "BaseID",
-          "it": "BaseID"
+          "it": "BaseID",
+          "jp": "BaseID"
         },
         "isRequired": true,
         "type": {
@@ -89,7 +94,8 @@
         "label": {
           "it": "Designer",
           "de": "Designer",
-          "en": "Designer"
+          "en": "Designer",
+          "jp": "デザイナー"
         },
         "isRequired": false,
         "type": {
@@ -975,7 +981,8 @@
         "label": {
           "de": "Made in Italy",
           "en": "Made in Italy",
-          "it": "Made in Italy"
+          "it": "Made in Italy",
+          "jp": "イタリア製"
         },
         "isRequired": false,
         "type": {
@@ -1001,7 +1008,8 @@
         "label": {
           "en": "Crosselling",
           "it": "Crosselling",
-          "de": "Crosselling"
+          "de": "Crosselling",
+          "jp": "クロスセリング"
         },
         "isRequired": false,
         "type": {
@@ -1020,7 +1028,8 @@
         "label": {
           "en": "Filtersize",
           "it": "Filtersize",
-          "de": "Filtergröße"
+          "de": "Filtergröße",
+          "jp": "フィルターサイズ"
         },
         "isRequired": false,
         "type": {
@@ -1230,7 +1239,8 @@
         "label": {
           "it": "Size",
           "de": "Größe",
-          "en": "Size"
+          "en": "Size",
+          "jp": "サイズ"
         },
         "isRequired": false,
         "type": {
@@ -1246,7 +1256,8 @@
         "label": {
           "de": "Filterfarbe",
           "it": "Filtercolor",
-          "en": "Filtercolor"
+          "en": "Filtercolor",
+          "jp": "フィルターカラー"
         },
         "isRequired": false,
         "type": {
@@ -1408,7 +1419,8 @@
         "label": {
           "de": "Farbbezeichnung",
           "en": "Color Description",
-          "it": "Color Description"
+          "it": "Color Description",
+          "jp": "色の説明"
         },
         "isRequired": false,
         "type": {
@@ -1424,7 +1436,8 @@
         "label": {
           "it": "Details",
           "de": "Details",
-          "en": "Details"
+          "en": "Details",
+          "jp": "詳細"
         },
         "isRequired": false,
         "type": {
@@ -1443,7 +1456,8 @@
         "label": {
           "en": "Style",
           "it": "Style",
-          "de": "Stil"
+          "de": "Stil",
+          "jp": "スタイル"
         },
         "isRequired": false,
         "type": {
@@ -1473,7 +1487,8 @@
         "label": {
           "en": "Gender",
           "it": "Gender",
-          "de": "Zielgruppe"
+          "de": "Zielgruppe",
+          "jp": "性別"
         },
         "isRequired": false,
         "type": {
@@ -1499,7 +1514,8 @@
         "label": {
           "en": "Season",
           "de": "Saison",
-          "it": "Season"
+          "it": "Season",
+          "jp": "シーズン"
         },
         "isRequired": false,
         "type": {
@@ -1515,7 +1531,8 @@
         "label": {
           "it": "isOnStock",
           "de": "isOnStock",
-          "en": "isOnStock"
+          "en": "isOnStock",
+          "jp": "isOnStock"
         },
         "isRequired": false,
         "type": {
@@ -1531,7 +1548,8 @@
         "label": {
           "en": "isLook",
           "de": "isLook",
-          "it": "isLook"
+          "it": "isLook",
+          "jp": "isLook"
         },
         "isRequired": false,
         "type": {
@@ -1547,7 +1565,8 @@
         "label": {
           "en": "Lookproducts",
           "de": "Lookprodukte",
-          "it": "Lookproducts"
+          "it": "Lookproducts",
+          "jp": "Lookproducts"
         },
         "isRequired": false,
         "type": {
@@ -1566,7 +1585,8 @@
         "label": {
           "de": "seasonNew",
           "it": "seasonNew",
-          "en": "seasonNew"
+          "en": "seasonNew",
+          "jp": "シーズンNew"
         },
         "isRequired": false,
         "type": {
@@ -1582,7 +1602,8 @@
         "label": {
           "de": "SAP External ID",
           "it": "SAP External ID",
-          "en": "SAP External ID"
+          "en": "SAP External ID",
+          "jp": "SAP外部ID"
         },
         "isRequired": false,
         "type": {
